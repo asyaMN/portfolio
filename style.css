@@ -1,0 +1,58 @@
+*{
+    margin: 0%;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+body{
+background-color: purple;
+background-image: url(/portfolio/img/350-3509004_computer-blurred-opacity-background-blur-background-of-computer.png);
+background-size: cover;
+}
+ 
+nav ul li a {
+    text-decoration: none;
+    color: #393939;
+    padding: 0 60px;
+    font-family: sans-serif;
+    text-transform:uppercase ;
+    transition: 4s;
+}
+
+nav ul li a:hover{
+    color: #000;
+}
+
+
+
+nav ul  {
+     float: right;
+ }
+nav .logo h1{
+    font-family: sans-serif;
+    font-size: 30px;
+    color: #393939;
+    padding-top: 10px;
+    padding-right: 40px;
+}
+
+.text h2{
+    color: #FFFFF0	;
+    font-family: sans-serif;
+    margin-top: 190px;
+    margin-left: 80px;
+}
+ .text h2 strong {
+    color:#393939 ;
+    text-shadow: 1px 1px #1a1a1a;
+ }
+
+ #btn {
+     border: 2p solid #393939;
+     margin-left: 83px;
+     padding: 5px 20px;
+     position: absolute;
+     top: 380px;
+     font-family: sans-serif;
+ }
